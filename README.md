@@ -14,4 +14,4 @@ To execute: ./my_hunter
 
 To help: ./my_hunter -h
 
-![alt text]("https://github.com/Eydou/MUL_my_hunter_2018/blob/master/hunter.png")
+![alt text](https://github.com/Eydou/MUL_my_hunter_2018/blob/master/hunter.png)
